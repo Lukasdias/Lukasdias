@@ -9,7 +9,7 @@
   </h3>
 
 <h3 align="left">
-    <img src="https://c.tenor.com/gNZweaFdtegAAAAC/capoo-cat.gif" width="32px" /> <strong>Tools</strong>: VS Code, Figma, Trello, Vercel, Git, GitHub, Netlify, NPM, Yarn
+    <img src="https://c.tenor.com/gNZweaFdtegAAAAC/capoo-cat.gif" width="32px" /> <strong>Tools</strong>: VS Code, Git, Vercel, Netlify, NPM, Yarn
 </h3>
 
 <h4>
