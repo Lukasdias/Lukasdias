@@ -60,10 +60,6 @@ interface LukasProps {
 
 <p align = "center" >
 
-- [![Lukasdias](https://github-readme-stats.vercel.app/api/top-langs/?username=Lukasdias&hide=html&layout=compact=true&theme=merko)](https://github.com/Lukasdias/)
-
-- [![Lukasdias](https://github-readme-stats.vercel.app/api?username=Lukasdias&theme=merko&show_icons=true)](https://github.com/Lukasdias/)
-
 <h3> Contact :</h3>
 
 [![Linkedin: Lukas Dias](https://img.shields.io/badge/-LukasDias-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lukasdias/)](https://www.linkedin.com/in/lukasdias/)
