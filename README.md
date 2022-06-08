@@ -2,14 +2,14 @@
 [![Github](https://img.shields.io/github/followers/Lukasdias?label=Follow&style=social)](https://github.com/Lukasdias)
 
 <h3 align="left"> 
-   <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> <strong>Welcome</strong>, i'm Lukas Dias a <strong>Front-end developer and GameDev</strong>
+   <strong>Welcome</strong>, i'm Lukas Dias a <strong>Front-end developer and GameDev</strong>
   </h3>
 
-<h3 align="left"><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> <strong>Skills</strong>: HTML, CSS, JavaScript, Sass, Tailwind CSS, ReactJS, TypeScript, Next.js && Styled Components.
+<h3 align="left"><strong>Skills</strong>: HTML, CSS, JavaScript, Sass, Tailwind CSS, ReactJS, TypeScript, Next.js && Styled Components.
   </h3>
 
 <h3 align="left">
-    <img src="https://c.tenor.com/gNZweaFdtegAAAAC/capoo-cat.gif" width="32px" /> <strong>Tools</strong>: VS Code, Git, Vercel, Netlify, NPM, Yarn
+    <strong>Tools</strong>: VS Code, Git, Vercel, Netlify, NPM, Yarn
 </h3>
 
 <h4>
