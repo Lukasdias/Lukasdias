@@ -2,7 +2,7 @@
 [![Github](https://img.shields.io/github/followers/Lukasdias?label=Follow&style=social)](https://github.com/Lukasdias)
 
 <h3 align="left"> 
-   <strong>Welcome</strong>, i'm Lukas Dias a <strong>Front-end developer and GameDev</strong>
+   <strong>Welcome</strong>, i'm Lukas Dias a <strong>Front End Developer and GameDev</strong>
   </h3>
 
 <h3 align="left"><strong>Skills</strong>: HTML, CSS, JavaScript, Sass, Tailwind CSS, ReactJS, TypeScript, Next.js && Styled Components.
