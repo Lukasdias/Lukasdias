@@ -1,39 +1,61 @@
 ![Profile views](https://visitor-badge.glitch.me/badge?page_id=Lukasdias.Lukasdias)
 [![Github](https://img.shields.io/github/followers/Lukasdias?label=Follow&style=social)](https://github.com/Lukasdias)
-
-<h3 align="left"> 
-   <strong>Welcome</strong>, i'm Lukas Dias a <strong>Front End Developer and GameDev</strong>
-  </h3>
-
-<h3 align="left"><strong>Skills</strong>: HTML, CSS, JavaScript, Sass, Tailwind CSS, ReactJS, TypeScript, Next.js && Styled Components.
-  </h3>
-
-<h3 align="left">
-    <strong>Tools</strong>: VS Code, Git, Vercel, Netlify, NPM, Yarn
-</h3>
-
 <h4>
-
+   
 ```ts
-interface LukasProps {
+import {HTML, CSS, JS} from '@holytrinity'
+import React from 'react'
+import ReactNative from 'react-native'
+import Tailwind from './tailwind.config.js'
+import Material from '@material-ui'
+import Chakra from '@chakra-ui/react'
+import styled from 'styled-components'
+   
+type LearningFeedback = "stress" | "knowledge"
+
+interface Human {
   name: string
   age: number
+}
+   
+interface LukasProps extends Human {
   technologies: {
-    front,
-    back,
-    mobile,
-    gameDev,
+   front: {
+     ...HTML,
+     ...CSS,
+     ...JS,
+     frameworks: {
+      React: {
+         ...React,
+         frameworks: {
+            ...Next   
+         }
+      }
+     },
+     UI: {
+        ...styled,
+        ...Tailwind,
+        ...Chakra,
+        ...Material,
+     }
+   },
+    mobile: {
+       ...ReactNative,
+    },
+    gameDev: {
+      ...Unity,
+    },
   }
-  coding: rage | satisfaction
-  learning: () => return knowledge;
+  coding: 'rage' | 'satisfaction'
+  learning: () => return LearningFeedbacks;
 }
 
 ```
 
 </h4>
 
----
-
+--- 
+### Tecnologies 🕵️
 <p align = "center">
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
 <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
@@ -60,7 +82,7 @@ interface LukasProps {
 
 <p align = "center" >
 
-### Contact
+### Contact 📲
 
 [![Linkedin: Lukas Dias](https://img.shields.io/badge/-LukasDias-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lukasdias/)](https://www.linkedin.com/in/lukasdias/)
 [![Gmail Badge](https://img.shields.io/badge/-diaslukas19@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diaslukas19@gmail.com)](mailto:diaslukas19@gmail.com)
@@ -82,7 +104,3 @@ interface LukasProps {
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lukasdias&theme=synthwave" />
 
 <img src="https://github-profile-trophy.vercel.app/?username=Lukas&theme=synthwave" />
-
-
-
-
