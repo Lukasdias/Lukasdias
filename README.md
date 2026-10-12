@@ -1,16 +1,16 @@
 ### Hi, I'm Lukas 👋
 
-Mid-level Front-end Developer @ [Dotz](https://www.dotz.com.br) · CS student @ UFMA
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square)](https://www.linkedin.com/in/lukasdias/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Lukasdias)
-
----
+Mid-level Front-end Developer @ [Dotz](https://www.dotz.com.br) · CS student @ [UFMA](https://portalpadrao.ufma.br/)
 
 - Building heavy web applications with **TypeScript** and **React**
 - Learning **Python** and **FastAPI** for backend work
 - Side projects in **Rust**
 - Big fan of building **CLIs** and **TUIs**
+
+---
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square)](https://www.linkedin.com/in/lukasdias/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Lukasdias)
 
 ---
 
