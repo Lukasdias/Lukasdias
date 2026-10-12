@@ -1,6 +1,6 @@
 ### Hi, I'm Lukas 👋
 
-Mid-level Front-end Developer @ [Dotz](https://www.dotz.com.br) · CS student @ [UFMA](https://portalpadrao.ufma.br/)
+Mid-level Front-end Developer @ [Dotz](https://www.dotz.com.br) · CS BSc @ [UFMA](https://portalpadrao.ufma.br/)
 
 - Building heavy web applications with **TypeScript** and **React**
 - Learning **Python** and **FastAPI** for backend work
