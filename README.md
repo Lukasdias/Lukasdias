@@ -2,7 +2,7 @@
 
 Mid-level Front-end Developer @ [Dotz](https://www.dotz.com.br) · CS BSc @ [UFMA](https://portalpadrao.ufma.br/)
 
-- Building heavy web applications with **TypeScript** and **React**
+- Building web applications with **TypeScript** and **React**
 - Learning **Python** and **FastAPI** for backend work
 - Side projects in **Rust**
 - Big fan of building **CLIs** and **TUIs**
